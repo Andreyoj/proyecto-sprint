@@ -1,10 +1,14 @@
 # proyecto-sprint
+
 Repositorio colaborativo del sprint
 
-Laboratorio 3
-Integrantes:
+ Laboratorio 3
+
+ Integrantes:
 - André Yoj
-- Nombre 1
-- Nombre 2
-- Nombre 3
-- Nombre 4
+- Luis Vasquez
+- Ernesto Delarosa
+- Esteban Maldonado
+- Luis Valdizon
+
+## PROYECTO DE LUIS Y EQUIPO - ESTADO: LISTO
